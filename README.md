@@ -1,7 +1,7 @@
-Nama  = Yulia Lestari Ningsih
+Nama : Yulia Lestari Ningsih
 ##
-Nim  = 1237050098
+Nim  : 1237050098
 ##
-Kelas  = IF-D
+Kelas: IF-D
 ##
 "UAS ALGORITMA PEMOGRAMAN"
